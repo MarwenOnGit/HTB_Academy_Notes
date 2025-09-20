@@ -686,3 +686,4 @@ We need to be aware about what’s the server’s os before doing this, because 
 `CSmarwen@htb[/htb]**$** ffuf -w ./LFI-WordList-Linux:FUZZ -u 'http://<SERVER_IP>:<PORT>/index.php?language=../../../../FUZZ' -fs 2287`
 
 after reading the content of the config file we can investigate any env variables in this file /etc/apache2/envvars;
+     
