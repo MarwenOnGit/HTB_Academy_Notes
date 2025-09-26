@@ -687,3 +687,4 @@ We need to be aware about what’s the server’s os before doing this, because 
 
 after reading the content of the config file we can investigate any env variables in this file /etc/apache2/envvars;
      
+            
