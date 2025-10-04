@@ -96,4 +96,4 @@ A `Security Operations Center` (`SOC`) is a centralized unit that acts as the 
 
 # Bug Bounty Hunters
 
-Bug bounty hunters are skilled cybersecurity professionals who operate independently to uncover vulnerabilities in various digital assets belonging to organizations. These assets may include software applications, websites, or complex network systems.
+Bug bounty hunters are skilled cybersecurity professionals who operate independently to uncover vulnerabilities in various digital assets belonging to organizations. These assets may include software applications, websites, or complex network systems.   
